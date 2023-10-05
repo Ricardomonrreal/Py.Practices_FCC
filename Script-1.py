@@ -1,4 +1,4 @@
-rawstr = input("Enter a number: ")
+rawstr = input("Enter a number pls: ")
 try:
     ival = int(rawstr)
 except:
